@@ -1,3 +1,4 @@
+![Perfil de Valdir](perfil.png)
 h1 align="center">Valdir</h1>
 <p align="center"><strong>Gestão de TI • Automação • Aplicativos para o varejo</strong></p>
 <p align="center">Transformando necessidades do dia a dia em soluções práticas.</p>
